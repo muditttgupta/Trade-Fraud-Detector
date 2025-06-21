@@ -1,0 +1,60 @@
+Invoice ID,Buyer,Seller,Amount,Product,Date,duplicate_invoice,high_amount,anomaly_iforest,is_anomaly_iforest,final_anomaly
+INV1000,ZoomEx,Mega Traders,70384,Rice,2024-01-01,True,False,1,False,True
+INV1000,ZoomEx,Exporters Inc,67968,Oil,2024-01-02,True,False,1,False,True
+INV1000,FastTrade,Mega Traders,30405,Sugar,2024-01-03,True,False,1,False,True
+INV1000,BuyNShip,Mega Traders,58254,Wheat,2024-01-04,True,False,1,False,True
+INV1000,ABC Ltd,SellFast,28892,Sugar,2024-01-05,True,False,1,False,True
+INV1000,ZoomEx,TradeX,36106,Oil,2024-01-06,True,False,1,False,True
+INV1000,ZoomEx,TradeX,69430,Sugar,2024-01-07,True,False,1,False,True
+INV1000,ABC Ltd,SellFast,7102,Copper,2024-01-08,True,False,1,False,True
+INV1000,ABC Ltd,SellFast,51691,Copper,2024-01-09,True,False,1,False,True
+INV1000,ABC Ltd,Mega Traders,37535,Sugar,2024-01-10,True,False,1,False,True
+INV1020,Global Corp,QuickExports,200000,Oil,2024-01-21,False,True,-1,True,True
+INV1021,ZoomEx,SellFast,200000,Wheat,2024-01-22,False,True,-1,True,True
+INV1022,ABC Ltd,TradeX,200000,Tea,2024-01-23,False,True,-1,True,True
+INV1023,ABC Ltd,QuickExports,200000,Wheat,2024-01-24,False,True,-1,True,True
+INV1024,BuyNShip,Exporters Inc,200000,Wheat,2024-01-25,False,True,-1,True,True
+INV1025,ABC Ltd,TradeX,200000,Oil,2024-01-26,False,True,-1,True,True
+INV1026,ABC Ltd,QuickExports,200000,Oil,2024-01-27,False,True,-1,True,True
+INV1027,Global Corp,SellFast,200000,Wheat,2024-01-28,False,True,-1,True,True
+INV1028,BuyNShip,Mega Traders,200000,Rice,2024-01-29,False,True,-1,True,True
+INV1029,ZoomEx,Mega Traders,200000,Wheat,2024-01-30,False,True,-1,True,True
+INV1040,ZoomEx,TradeX,89890,Copper,2024-02-10,False,False,-1,True,True
+INV1093,ZoomEx,Mega Traders,89501,Tea,2024-04-03,False,False,-1,True,True
+INV1164,BuyNShip,Mega Traders,89883,Rice,2024-06-13,False,False,-1,True,True
+INV1168,Global Corp,TradeX,2186,Sugar,2024-06-17,False,False,-1,True,True
+INV1171,ABC Ltd,SellFast,2469,Sugar,2024-06-20,False,False,-1,True,True
+INV1181,BuyNShip,Mega Traders,2078,Rice,2024-06-30,False,False,-1,True,True
+INV1197,ZoomEx,Mega Traders,2312,Sugar,2024-07-16,False,False,-1,True,True
+INV1207,FastTrade,Mega Traders,89387,Sugar,2024-07-26,False,False,-1,True,True
+INV1233,ABC Ltd,TradeX,2471,Wheat,2024-08-21,False,False,-1,True,True
+INV1236,ZoomEx,TradeX,89869,Copper,2024-08-24,False,False,-1,True,True
+INV1279,BuyNShip,Mega Traders,89902,Sugar,2024-10-06,False,False,-1,True,True
+INV1287,FastTrade,SellFast,86754,Oil,2024-10-14,False,False,-1,True,True
+INV1317,FastTrade,TradeX,88977,Oil,2024-11-13,False,False,-1,True,True
+INV1324,ABC Ltd,QuickExports,89039,Copper,2024-11-20,False,False,-1,True,True
+INV1330,FastTrade,Mega Traders,1994,Tea,2024-11-26,False,False,-1,True,True
+INV1340,FastTrade,TradeX,1462,Tea,2024-12-06,False,False,-1,True,True
+INV1354,FastTrade,Exporters Inc,1280,Oil,2024-12-20,False,False,-1,True,True
+INV1383,BuyNShip,QuickExports,1530,Copper,2025-01-18,False,False,-1,True,True
+INV1450,ZoomEx,SellFast,89031,Sugar,2025-03-26,False,False,-1,True,True
+INV1533,ABC Ltd,Mega Traders,2206,Rice,2025-06-17,False,False,-1,True,True
+INV1548,FastTrade,SellFast,2282,Copper,2025-07-02,False,False,-1,True,True
+INV1561,Global Corp,Mega Traders,2408,Sugar,2025-07-15,False,False,-1,True,True
+INV1608,ZoomEx,Mega Traders,1531,Tea,2025-08-31,False,False,-1,True,True
+INV1615,ZoomEx,Exporters Inc,1842,Rice,2025-09-07,False,False,-1,True,True
+INV1624,BuyNShip,QuickExports,1626,Wheat,2025-09-16,False,False,-1,True,True
+INV1643,FastTrade,Exporters Inc,89182,Tea,2025-10-05,False,False,-1,True,True
+INV1675,ZoomEx,TradeX,2296,Tea,2025-11-06,False,False,-1,True,True
+INV1693,BuyNShip,Mega Traders,1428,Wheat,2025-11-24,False,False,-1,True,True
+INV1747,ABC Ltd,TradeX,89527,Oil,2026-01-17,False,False,-1,True,True
+INV1751,Global Corp,QuickExports,89029,Tea,2026-01-21,False,False,-1,True,True
+INV1770,BuyNShip,Exporters Inc,1456,Copper,2026-02-09,False,False,-1,True,True
+INV1845,ABC Ltd,SellFast,1370,Oil,2026-04-25,False,False,-1,True,True
+INV1846,BuyNShip,TradeX,89857,Tea,2026-04-26,False,False,-1,True,True
+INV1915,BuyNShip,Mega Traders,88969,Oil,2026-07-04,False,False,-1,True,True
+INV1934,ZoomEx,TradeX,89837,Oil,2026-07-23,False,False,-1,True,True
+INV1949,ABC Ltd,Exporters Inc,1189,Tea,2026-08-07,False,False,-1,True,True
+INV1955,ABC Ltd,TradeX,1670,Tea,2026-08-13,False,False,-1,True,True
+INV1978,FastTrade,Exporters Inc,1307,Tea,2026-09-05,False,False,-1,True,True
+INV1997,Global Corp,QuickExports,89972,Oil,2026-09-24,False,False,-1,True,True

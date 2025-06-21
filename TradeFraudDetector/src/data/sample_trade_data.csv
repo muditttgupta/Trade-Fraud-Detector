@@ -1,0 +1,1001 @@
+Invoice ID,Buyer,Seller,Amount,Product,Date
+INV1000,Global Corp,QuickExports,38492,Tea,2024-01-01
+INV1000,ABC Ltd,SellFast,85880,Wheat,2024-01-02
+INV1000,ZoomEx,Mega Traders,80135,Sugar,2024-01-03
+INV1000,BuyNShip,Mega Traders,32090,Tea,2024-01-04
+INV1000,FastTrade,Exporters Inc,13023,Wheat,2024-01-05
+INV1000,FastTrade,Exporters Inc,23798,Tea,2024-01-06
+INV1000,ABC Ltd,Exporters Inc,49182,Rice,2024-01-07
+INV1000,BuyNShip,Mega Traders,1307,Copper,2024-01-08
+INV1000,ZoomEx,Mega Traders,58821,Oil,2024-01-09
+INV1000,ZoomEx,Exporters Inc,67709,Rice,2024-01-10
+INV1010,FastTrade,Exporters Inc,65735,Copper,2024-01-11
+INV1011,FastTrade,Exporters Inc,75411,Sugar,2024-01-12
+INV1012,Global Corp,Exporters Inc,56856,Copper,2024-01-13
+INV1013,ABC Ltd,SellFast,17137,Oil,2024-01-14
+INV1014,Global Corp,Mega Traders,71416,Tea,2024-01-15
+INV1015,Global Corp,Mega Traders,33702,Sugar,2024-01-16
+INV1016,FastTrade,Exporters Inc,41729,Sugar,2024-01-17
+INV1017,ZoomEx,Exporters Inc,40646,Copper,2024-01-18
+INV1018,Global Corp,SellFast,80283,Rice,2024-01-19
+INV1019,BuyNShip,Mega Traders,26753,Wheat,2024-01-20
+INV1020,ABC Ltd,Mega Traders,200000,Wheat,2024-01-21
+INV1021,Global Corp,QuickExports,200000,Tea,2024-01-22
+INV1022,FastTrade,Mega Traders,200000,Copper,2024-01-23
+INV1023,BuyNShip,TradeX,200000,Copper,2024-01-24
+INV1024,ZoomEx,SellFast,200000,Tea,2024-01-25
+INV1025,ABC Ltd,QuickExports,200000,Copper,2024-01-26
+INV1026,ABC Ltd,SellFast,200000,Wheat,2024-01-27
+INV1027,BuyNShip,TradeX,200000,Wheat,2024-01-28
+INV1028,FastTrade,QuickExports,200000,Oil,2024-01-29
+INV1029,FastTrade,Exporters Inc,200000,Tea,2024-01-30
+INV1030,FastTrade,SellFast,3848,Rice,2024-01-31
+INV1031,ABC Ltd,Exporters Inc,6659,Wheat,2024-02-01
+INV1032,FastTrade,Exporters Inc,43648,Rice,2024-02-02
+INV1033,Global Corp,Exporters Inc,15025,Copper,2024-02-03
+INV1034,BuyNShip,SellFast,41694,Wheat,2024-02-04
+INV1035,ABC Ltd,QuickExports,85923,Tea,2024-02-05
+INV1036,Global Corp,QuickExports,52418,Wheat,2024-02-06
+INV1037,BuyNShip,SellFast,75876,Oil,2024-02-07
+INV1038,BuyNShip,TradeX,74757,Copper,2024-02-08
+INV1039,ZoomEx,Exporters Inc,1447,Sugar,2024-02-09
+INV1040,FastTrade,Mega Traders,34354,Tea,2024-02-10
+INV1041,BuyNShip,SellFast,19668,Wheat,2024-02-11
+INV1042,ABC Ltd,Mega Traders,24700,Rice,2024-02-12
+INV1043,ZoomEx,TradeX,86149,Sugar,2024-02-13
+INV1044,ZoomEx,Mega Traders,3813,Tea,2024-02-14
+INV1045,FastTrade,TradeX,82435,Oil,2024-02-15
+INV1046,Global Corp,QuickExports,82231,Copper,2024-02-16
+INV1047,ZoomEx,Exporters Inc,47003,Sugar,2024-02-17
+INV1048,FastTrade,Mega Traders,20384,Wheat,2024-02-18
+INV1049,FastTrade,QuickExports,14631,Wheat,2024-02-19
+INV1050,Global Corp,Mega Traders,10031,Sugar,2024-02-20
+INV1051,FastTrade,QuickExports,84580,Copper,2024-02-21
+INV1052,ABC Ltd,TradeX,22484,Oil,2024-02-22
+INV1053,ZoomEx,Exporters Inc,56643,Copper,2024-02-23
+INV1054,ABC Ltd,Exporters Inc,65061,Copper,2024-02-24
+INV1055,ZoomEx,SellFast,74885,Wheat,2024-02-25
+INV1056,BuyNShip,QuickExports,13040,Rice,2024-02-26
+INV1057,ABC Ltd,SellFast,72083,Sugar,2024-02-27
+INV1058,FastTrade,Mega Traders,79659,Oil,2024-02-28
+INV1059,BuyNShip,Mega Traders,48168,Oil,2024-02-29
+INV1060,Global Corp,SellFast,3093,Oil,2024-03-01
+INV1061,BuyNShip,Mega Traders,89353,Sugar,2024-03-02
+INV1062,ZoomEx,QuickExports,55705,Copper,2024-03-03
+INV1063,FastTrade,Exporters Inc,39043,Rice,2024-03-04
+INV1064,ABC Ltd,TradeX,76082,Copper,2024-03-05
+INV1065,ZoomEx,TradeX,28474,Tea,2024-03-06
+INV1066,FastTrade,QuickExports,2896,Rice,2024-03-07
+INV1067,Global Corp,QuickExports,67315,Sugar,2024-03-08
+INV1068,FastTrade,TradeX,71638,Rice,2024-03-09
+INV1069,BuyNShip,Mega Traders,23191,Oil,2024-03-10
+INV1070,ZoomEx,TradeX,51349,Tea,2024-03-11
+INV1071,ZoomEx,SellFast,47673,Oil,2024-03-12
+INV1072,ZoomEx,QuickExports,15766,Tea,2024-03-13
+INV1073,ABC Ltd,Mega Traders,60850,Rice,2024-03-14
+INV1074,FastTrade,TradeX,42974,Rice,2024-03-15
+INV1075,FastTrade,SellFast,82187,Oil,2024-03-16
+INV1076,ABC Ltd,TradeX,57061,Sugar,2024-03-17
+INV1077,FastTrade,QuickExports,36171,Rice,2024-03-18
+INV1078,FastTrade,SellFast,44442,Wheat,2024-03-19
+INV1079,Global Corp,QuickExports,31377,Sugar,2024-03-20
+INV1080,BuyNShip,SellFast,3345,Wheat,2024-03-21
+INV1081,BuyNShip,SellFast,84106,Oil,2024-03-22
+INV1082,ZoomEx,SellFast,53476,Wheat,2024-03-23
+INV1083,ABC Ltd,TradeX,39880,Wheat,2024-03-24
+INV1084,ABC Ltd,TradeX,39211,Oil,2024-03-25
+INV1085,ABC Ltd,Exporters Inc,69927,Oil,2024-03-26
+INV1086,FastTrade,TradeX,76338,Rice,2024-03-27
+INV1087,Global Corp,SellFast,28595,Tea,2024-03-28
+INV1088,ZoomEx,TradeX,25613,Tea,2024-03-29
+INV1089,ABC Ltd,Exporters Inc,72873,Tea,2024-03-30
+INV1090,Global Corp,QuickExports,27360,Oil,2024-03-31
+INV1091,ZoomEx,Exporters Inc,87685,Oil,2024-04-01
+INV1092,ZoomEx,TradeX,18080,Wheat,2024-04-02
+INV1093,BuyNShip,TradeX,39040,Oil,2024-04-03
+INV1094,BuyNShip,Mega Traders,34647,Tea,2024-04-04
+INV1095,ABC Ltd,SellFast,39850,Wheat,2024-04-05
+INV1096,Global Corp,Exporters Inc,5662,Tea,2024-04-06
+INV1097,FastTrade,TradeX,9169,Tea,2024-04-07
+INV1098,BuyNShip,TradeX,79109,Sugar,2024-04-08
+INV1099,BuyNShip,TradeX,66710,Sugar,2024-04-09
+INV1100,ZoomEx,Mega Traders,86328,Copper,2024-04-10
+INV1101,FastTrade,TradeX,78079,Wheat,2024-04-11
+INV1102,ZoomEx,Exporters Inc,2352,Sugar,2024-04-12
+INV1103,ZoomEx,SellFast,51125,Rice,2024-04-13
+INV1104,FastTrade,SellFast,61769,Copper,2024-04-14
+INV1105,Global Corp,QuickExports,35787,Copper,2024-04-15
+INV1106,BuyNShip,TradeX,7558,Oil,2024-04-16
+INV1107,ZoomEx,SellFast,37963,Wheat,2024-04-17
+INV1108,BuyNShip,Exporters Inc,31621,Oil,2024-04-18
+INV1109,ABC Ltd,Exporters Inc,45265,Sugar,2024-04-19
+INV1110,BuyNShip,Exporters Inc,42035,Tea,2024-04-20
+INV1111,ZoomEx,Mega Traders,54953,Wheat,2024-04-21
+INV1112,FastTrade,SellFast,42299,Tea,2024-04-22
+INV1113,ABC Ltd,SellFast,27409,Copper,2024-04-23
+INV1114,FastTrade,QuickExports,42313,Sugar,2024-04-24
+INV1115,FastTrade,SellFast,89340,Wheat,2024-04-25
+INV1116,Global Corp,QuickExports,51174,Sugar,2024-04-26
+INV1117,BuyNShip,TradeX,46662,Copper,2024-04-27
+INV1118,FastTrade,Mega Traders,25882,Oil,2024-04-28
+INV1119,Global Corp,SellFast,77415,Tea,2024-04-29
+INV1120,ABC Ltd,Exporters Inc,6866,Rice,2024-04-30
+INV1121,FastTrade,Exporters Inc,7637,Rice,2024-05-01
+INV1122,FastTrade,QuickExports,31860,Copper,2024-05-02
+INV1123,ABC Ltd,SellFast,71058,Tea,2024-05-03
+INV1124,FastTrade,Exporters Inc,54052,Wheat,2024-05-04
+INV1125,BuyNShip,QuickExports,11741,Tea,2024-05-05
+INV1126,Global Corp,TradeX,57845,Wheat,2024-05-06
+INV1127,BuyNShip,Mega Traders,3219,Wheat,2024-05-07
+INV1128,ZoomEx,TradeX,42833,Wheat,2024-05-08
+INV1129,ABC Ltd,Exporters Inc,52260,Tea,2024-05-09
+INV1130,Global Corp,Mega Traders,16375,Sugar,2024-05-10
+INV1131,ABC Ltd,Mega Traders,14060,Wheat,2024-05-11
+INV1132,FastTrade,SellFast,31882,Copper,2024-05-12
+INV1133,ZoomEx,SellFast,51483,Wheat,2024-05-13
+INV1134,ABC Ltd,Exporters Inc,50859,Wheat,2024-05-14
+INV1135,ABC Ltd,Mega Traders,13416,Copper,2024-05-15
+INV1136,Global Corp,Mega Traders,30278,Wheat,2024-05-16
+INV1137,ZoomEx,TradeX,37688,Sugar,2024-05-17
+INV1138,ZoomEx,SellFast,75890,Sugar,2024-05-18
+INV1139,Global Corp,Mega Traders,45986,Copper,2024-05-19
+INV1140,ZoomEx,SellFast,71322,Tea,2024-05-20
+INV1141,Global Corp,TradeX,16567,Rice,2024-05-21
+INV1142,ABC Ltd,QuickExports,31605,Copper,2024-05-22
+INV1143,BuyNShip,TradeX,50322,Sugar,2024-05-23
+INV1144,ABC Ltd,SellFast,1566,Tea,2024-05-24
+INV1145,FastTrade,Mega Traders,1097,Wheat,2024-05-25
+INV1146,Global Corp,QuickExports,80941,Wheat,2024-05-26
+INV1147,Global Corp,TradeX,66484,Wheat,2024-05-27
+INV1148,Global Corp,Mega Traders,37096,Oil,2024-05-28
+INV1149,BuyNShip,QuickExports,47786,Wheat,2024-05-29
+INV1150,ABC Ltd,Mega Traders,53346,Copper,2024-05-30
+INV1151,ZoomEx,Exporters Inc,60408,Sugar,2024-05-31
+INV1152,ABC Ltd,TradeX,58842,Rice,2024-06-01
+INV1153,BuyNShip,Mega Traders,83483,Oil,2024-06-02
+INV1154,Global Corp,SellFast,66385,Sugar,2024-06-03
+INV1155,BuyNShip,QuickExports,20522,Rice,2024-06-04
+INV1156,FastTrade,Mega Traders,13436,Rice,2024-06-05
+INV1157,Global Corp,Exporters Inc,80220,Oil,2024-06-06
+INV1158,FastTrade,SellFast,12663,Oil,2024-06-07
+INV1159,FastTrade,Exporters Inc,68408,Oil,2024-06-08
+INV1160,BuyNShip,SellFast,67806,Rice,2024-06-09
+INV1161,Global Corp,SellFast,87255,Sugar,2024-06-10
+INV1162,ZoomEx,Mega Traders,67900,Sugar,2024-06-11
+INV1163,Global Corp,QuickExports,18706,Tea,2024-06-12
+INV1164,Global Corp,QuickExports,46163,Rice,2024-06-13
+INV1165,FastTrade,Exporters Inc,77276,Oil,2024-06-14
+INV1166,FastTrade,TradeX,69163,Rice,2024-06-15
+INV1167,ZoomEx,Mega Traders,52893,Wheat,2024-06-16
+INV1168,BuyNShip,QuickExports,84820,Copper,2024-06-17
+INV1169,ZoomEx,SellFast,38964,Tea,2024-06-18
+INV1170,ZoomEx,Mega Traders,45764,Sugar,2024-06-19
+INV1171,ABC Ltd,Mega Traders,44314,Rice,2024-06-20
+INV1172,ZoomEx,Mega Traders,39729,Oil,2024-06-21
+INV1173,ABC Ltd,QuickExports,47749,Wheat,2024-06-22
+INV1174,Global Corp,SellFast,24475,Tea,2024-06-23
+INV1175,Global Corp,QuickExports,77022,Wheat,2024-06-24
+INV1176,ZoomEx,Mega Traders,12216,Tea,2024-06-25
+INV1177,ABC Ltd,Exporters Inc,86183,Rice,2024-06-26
+INV1178,Global Corp,TradeX,34033,Oil,2024-06-27
+INV1179,ABC Ltd,Exporters Inc,68306,Oil,2024-06-28
+INV1180,FastTrade,QuickExports,49380,Sugar,2024-06-29
+INV1181,ABC Ltd,Exporters Inc,44165,Wheat,2024-06-30
+INV1182,BuyNShip,SellFast,40218,Sugar,2024-07-01
+INV1183,ZoomEx,SellFast,51526,Sugar,2024-07-02
+INV1184,ABC Ltd,SellFast,34257,Tea,2024-07-03
+INV1185,ABC Ltd,Exporters Inc,64776,Tea,2024-07-04
+INV1186,BuyNShip,SellFast,48925,Wheat,2024-07-05
+INV1187,ZoomEx,QuickExports,54271,Tea,2024-07-06
+INV1188,FastTrade,Exporters Inc,55417,Sugar,2024-07-07
+INV1189,FastTrade,Exporters Inc,48672,Copper,2024-07-08
+INV1190,BuyNShip,Mega Traders,15335,Rice,2024-07-09
+INV1191,FastTrade,Exporters Inc,80423,Copper,2024-07-10
+INV1192,FastTrade,QuickExports,55228,Wheat,2024-07-11
+INV1193,Global Corp,TradeX,34425,Sugar,2024-07-12
+INV1194,ZoomEx,QuickExports,59366,Wheat,2024-07-13
+INV1195,Global Corp,Mega Traders,29456,Sugar,2024-07-14
+INV1196,BuyNShip,QuickExports,48300,Wheat,2024-07-15
+INV1197,BuyNShip,Mega Traders,2869,Sugar,2024-07-16
+INV1198,ZoomEx,TradeX,70817,Sugar,2024-07-17
+INV1199,Global Corp,TradeX,66716,Oil,2024-07-18
+INV1200,ZoomEx,SellFast,55474,Tea,2024-07-19
+INV1201,ABC Ltd,SellFast,43303,Copper,2024-07-20
+INV1202,ABC Ltd,TradeX,57778,Copper,2024-07-21
+INV1203,FastTrade,QuickExports,30315,Tea,2024-07-22
+INV1204,BuyNShip,Mega Traders,23681,Sugar,2024-07-23
+INV1205,ABC Ltd,SellFast,16631,Tea,2024-07-24
+INV1206,Global Corp,SellFast,70193,Tea,2024-07-25
+INV1207,FastTrade,SellFast,57714,Sugar,2024-07-26
+INV1208,BuyNShip,TradeX,8399,Copper,2024-07-27
+INV1209,Global Corp,QuickExports,88183,Copper,2024-07-28
+INV1210,BuyNShip,TradeX,69490,Oil,2024-07-29
+INV1211,BuyNShip,Mega Traders,16138,Copper,2024-07-30
+INV1212,ZoomEx,Mega Traders,74816,Rice,2024-07-31
+INV1213,FastTrade,QuickExports,3504,Rice,2024-08-01
+INV1214,BuyNShip,Exporters Inc,56134,Copper,2024-08-02
+INV1215,FastTrade,Mega Traders,69227,Wheat,2024-08-03
+INV1216,FastTrade,QuickExports,53349,Rice,2024-08-04
+INV1217,Global Corp,Exporters Inc,28616,Sugar,2024-08-05
+INV1218,Global Corp,TradeX,14618,Tea,2024-08-06
+INV1219,ZoomEx,TradeX,3360,Rice,2024-08-07
+INV1220,BuyNShip,Exporters Inc,73344,Rice,2024-08-08
+INV1221,ABC Ltd,QuickExports,88007,Sugar,2024-08-09
+INV1222,BuyNShip,Exporters Inc,4460,Wheat,2024-08-10
+INV1223,BuyNShip,TradeX,87873,Tea,2024-08-11
+INV1224,BuyNShip,QuickExports,10451,Tea,2024-08-12
+INV1225,ABC Ltd,TradeX,40749,Oil,2024-08-13
+INV1226,Global Corp,QuickExports,74151,Sugar,2024-08-14
+INV1227,ABC Ltd,TradeX,53677,Copper,2024-08-15
+INV1228,BuyNShip,TradeX,49546,Wheat,2024-08-16
+INV1229,FastTrade,Exporters Inc,18492,Oil,2024-08-17
+INV1230,ABC Ltd,TradeX,68223,Sugar,2024-08-18
+INV1231,BuyNShip,Mega Traders,40426,Sugar,2024-08-19
+INV1232,ABC Ltd,SellFast,40591,Oil,2024-08-20
+INV1233,ZoomEx,Exporters Inc,65137,Sugar,2024-08-21
+INV1234,ZoomEx,Exporters Inc,22696,Tea,2024-08-22
+INV1235,ABC Ltd,SellFast,26521,Sugar,2024-08-23
+INV1236,Global Corp,SellFast,34932,Sugar,2024-08-24
+INV1237,Global Corp,TradeX,41612,Oil,2024-08-25
+INV1238,ABC Ltd,Exporters Inc,83922,Copper,2024-08-26
+INV1239,ZoomEx,TradeX,33398,Sugar,2024-08-27
+INV1240,Global Corp,TradeX,76795,Copper,2024-08-28
+INV1241,ABC Ltd,QuickExports,73480,Copper,2024-08-29
+INV1242,ZoomEx,QuickExports,37460,Tea,2024-08-30
+INV1243,ZoomEx,TradeX,24438,Tea,2024-08-31
+INV1244,FastTrade,QuickExports,17758,Wheat,2024-09-01
+INV1245,Global Corp,TradeX,49372,Copper,2024-09-02
+INV1246,ABC Ltd,Mega Traders,42619,Sugar,2024-09-03
+INV1247,ABC Ltd,SellFast,77574,Wheat,2024-09-04
+INV1248,ABC Ltd,Mega Traders,75044,Wheat,2024-09-05
+INV1249,ABC Ltd,Exporters Inc,50122,Sugar,2024-09-06
+INV1250,ABC Ltd,Mega Traders,67447,Copper,2024-09-07
+INV1251,ZoomEx,QuickExports,21012,Tea,2024-09-08
+INV1252,Global Corp,Exporters Inc,41252,Sugar,2024-09-09
+INV1253,BuyNShip,SellFast,12424,Copper,2024-09-10
+INV1254,Global Corp,SellFast,20954,Copper,2024-09-11
+INV1255,BuyNShip,Exporters Inc,40278,Wheat,2024-09-12
+INV1256,ABC Ltd,SellFast,62195,Sugar,2024-09-13
+INV1257,ABC Ltd,Exporters Inc,39428,Rice,2024-09-14
+INV1258,ZoomEx,Exporters Inc,83933,Copper,2024-09-15
+INV1259,ABC Ltd,TradeX,31496,Copper,2024-09-16
+INV1260,Global Corp,TradeX,2835,Oil,2024-09-17
+INV1261,ZoomEx,TradeX,73474,Rice,2024-09-18
+INV1262,ABC Ltd,Mega Traders,74975,Oil,2024-09-19
+INV1263,ZoomEx,SellFast,62926,Rice,2024-09-20
+INV1264,ZoomEx,QuickExports,50541,Wheat,2024-09-21
+INV1265,FastTrade,SellFast,18007,Tea,2024-09-22
+INV1266,FastTrade,SellFast,14808,Wheat,2024-09-23
+INV1267,ABC Ltd,Mega Traders,62272,Copper,2024-09-24
+INV1268,BuyNShip,SellFast,32140,Sugar,2024-09-25
+INV1269,BuyNShip,SellFast,67876,Sugar,2024-09-26
+INV1270,ZoomEx,TradeX,52309,Sugar,2024-09-27
+INV1271,FastTrade,Exporters Inc,17583,Sugar,2024-09-28
+INV1272,Global Corp,TradeX,78102,Rice,2024-09-29
+INV1273,ABC Ltd,SellFast,77826,Tea,2024-09-30
+INV1274,BuyNShip,SellFast,50170,Copper,2024-10-01
+INV1275,Global Corp,TradeX,15757,Oil,2024-10-02
+INV1276,FastTrade,TradeX,9144,Wheat,2024-10-03
+INV1277,BuyNShip,QuickExports,6394,Wheat,2024-10-04
+INV1278,FastTrade,SellFast,82036,Rice,2024-10-05
+INV1279,ABC Ltd,SellFast,36565,Copper,2024-10-06
+INV1280,ZoomEx,QuickExports,15106,Wheat,2024-10-07
+INV1281,BuyNShip,SellFast,61156,Wheat,2024-10-08
+INV1282,ABC Ltd,Exporters Inc,61470,Wheat,2024-10-09
+INV1283,FastTrade,SellFast,25873,Wheat,2024-10-10
+INV1284,ABC Ltd,TradeX,54910,Copper,2024-10-11
+INV1285,ABC Ltd,Exporters Inc,54836,Tea,2024-10-12
+INV1286,FastTrade,Mega Traders,17552,Copper,2024-10-13
+INV1287,FastTrade,TradeX,70761,Tea,2024-10-14
+INV1288,ABC Ltd,TradeX,11185,Wheat,2024-10-15
+INV1289,ZoomEx,QuickExports,50063,Tea,2024-10-16
+INV1290,ABC Ltd,Mega Traders,65055,Copper,2024-10-17
+INV1291,FastTrade,SellFast,58292,Wheat,2024-10-18
+INV1292,FastTrade,SellFast,14620,Oil,2024-10-19
+INV1293,ZoomEx,Mega Traders,3059,Wheat,2024-10-20
+INV1294,FastTrade,QuickExports,64477,Copper,2024-10-21
+INV1295,FastTrade,TradeX,75879,Wheat,2024-10-22
+INV1296,FastTrade,QuickExports,37477,Tea,2024-10-23
+INV1297,ZoomEx,Exporters Inc,37635,Copper,2024-10-24
+INV1298,BuyNShip,SellFast,55382,Rice,2024-10-25
+INV1299,BuyNShip,SellFast,49447,Wheat,2024-10-26
+INV1300,Global Corp,TradeX,56409,Copper,2024-10-27
+INV1301,BuyNShip,TradeX,25614,Tea,2024-10-28
+INV1302,FastTrade,Exporters Inc,52787,Oil,2024-10-29
+INV1303,Global Corp,Mega Traders,72900,Copper,2024-10-30
+INV1304,Global Corp,SellFast,17475,Rice,2024-10-31
+INV1305,ABC Ltd,Mega Traders,32431,Copper,2024-11-01
+INV1306,ABC Ltd,Mega Traders,53988,Sugar,2024-11-02
+INV1307,BuyNShip,Mega Traders,71235,Sugar,2024-11-03
+INV1308,FastTrade,TradeX,44367,Copper,2024-11-04
+INV1309,ABC Ltd,QuickExports,68814,Tea,2024-11-05
+INV1310,ABC Ltd,SellFast,57551,Sugar,2024-11-06
+INV1311,BuyNShip,Exporters Inc,15878,Sugar,2024-11-07
+INV1312,Global Corp,QuickExports,59304,Copper,2024-11-08
+INV1313,ABC Ltd,Mega Traders,74149,Copper,2024-11-09
+INV1314,ABC Ltd,Mega Traders,8811,Wheat,2024-11-10
+INV1315,ABC Ltd,SellFast,9538,Oil,2024-11-11
+INV1316,BuyNShip,Exporters Inc,84102,Sugar,2024-11-12
+INV1317,Global Corp,Mega Traders,22475,Wheat,2024-11-13
+INV1318,ZoomEx,Mega Traders,29273,Copper,2024-11-14
+INV1319,ABC Ltd,SellFast,25705,Wheat,2024-11-15
+INV1320,Global Corp,SellFast,73220,Sugar,2024-11-16
+INV1321,BuyNShip,QuickExports,27458,Wheat,2024-11-17
+INV1322,FastTrade,Mega Traders,59083,Copper,2024-11-18
+INV1323,FastTrade,SellFast,36477,Wheat,2024-11-19
+INV1324,FastTrade,SellFast,74913,Wheat,2024-11-20
+INV1325,BuyNShip,TradeX,39641,Sugar,2024-11-21
+INV1326,BuyNShip,Exporters Inc,89935,Sugar,2024-11-22
+INV1327,BuyNShip,Mega Traders,77605,Wheat,2024-11-23
+INV1328,FastTrade,Mega Traders,42736,Wheat,2024-11-24
+INV1329,Global Corp,QuickExports,12905,Rice,2024-11-25
+INV1330,FastTrade,Exporters Inc,45552,Copper,2024-11-26
+INV1331,FastTrade,TradeX,44452,Oil,2024-11-27
+INV1332,ZoomEx,SellFast,27906,Copper,2024-11-28
+INV1333,FastTrade,TradeX,87963,Rice,2024-11-29
+INV1334,BuyNShip,QuickExports,15863,Copper,2024-11-30
+INV1335,ZoomEx,QuickExports,21531,Oil,2024-12-01
+INV1336,ZoomEx,Mega Traders,44365,Oil,2024-12-02
+INV1337,ZoomEx,TradeX,34062,Sugar,2024-12-03
+INV1338,FastTrade,Exporters Inc,65335,Rice,2024-12-04
+INV1339,BuyNShip,TradeX,84502,Tea,2024-12-05
+INV1340,ABC Ltd,TradeX,72801,Copper,2024-12-06
+INV1341,ZoomEx,TradeX,31086,Tea,2024-12-07
+INV1342,ABC Ltd,Mega Traders,22124,Sugar,2024-12-08
+INV1343,BuyNShip,SellFast,1600,Copper,2024-12-09
+INV1344,Global Corp,Exporters Inc,78750,Sugar,2024-12-10
+INV1345,BuyNShip,TradeX,41272,Wheat,2024-12-11
+INV1346,BuyNShip,TradeX,44121,Rice,2024-12-12
+INV1347,ZoomEx,TradeX,24449,Wheat,2024-12-13
+INV1348,ZoomEx,QuickExports,89019,Rice,2024-12-14
+INV1349,ABC Ltd,TradeX,65680,Sugar,2024-12-15
+INV1350,ABC Ltd,SellFast,88661,Oil,2024-12-16
+INV1351,FastTrade,Exporters Inc,58409,Rice,2024-12-17
+INV1352,ZoomEx,TradeX,25609,Sugar,2024-12-18
+INV1353,BuyNShip,TradeX,66597,Tea,2024-12-19
+INV1354,FastTrade,SellFast,70640,Oil,2024-12-20
+INV1355,ABC Ltd,QuickExports,28656,Rice,2024-12-21
+INV1356,BuyNShip,Exporters Inc,79356,Wheat,2024-12-22
+INV1357,BuyNShip,Mega Traders,87508,Oil,2024-12-23
+INV1358,BuyNShip,TradeX,71807,Wheat,2024-12-24
+INV1359,ABC Ltd,QuickExports,73330,Rice,2024-12-25
+INV1360,BuyNShip,TradeX,11791,Copper,2024-12-26
+INV1361,FastTrade,Mega Traders,61435,Oil,2024-12-27
+INV1362,Global Corp,Exporters Inc,76189,Wheat,2024-12-28
+INV1363,BuyNShip,SellFast,26490,Copper,2024-12-29
+INV1364,FastTrade,Mega Traders,28965,Wheat,2024-12-30
+INV1365,Global Corp,Mega Traders,30783,Tea,2024-12-31
+INV1366,FastTrade,Mega Traders,83648,Tea,2025-01-01
+INV1367,Global Corp,Mega Traders,14655,Tea,2025-01-02
+INV1368,ZoomEx,SellFast,88213,Copper,2025-01-03
+INV1369,FastTrade,QuickExports,33817,Sugar,2025-01-04
+INV1370,ZoomEx,QuickExports,49890,Wheat,2025-01-05
+INV1371,BuyNShip,Mega Traders,29962,Oil,2025-01-06
+INV1372,BuyNShip,QuickExports,72060,Sugar,2025-01-07
+INV1373,Global Corp,Mega Traders,37967,Rice,2025-01-08
+INV1374,FastTrade,SellFast,32719,Copper,2025-01-09
+INV1375,FastTrade,Exporters Inc,4446,Wheat,2025-01-10
+INV1376,ABC Ltd,Mega Traders,7296,Wheat,2025-01-11
+INV1377,FastTrade,QuickExports,28417,Oil,2025-01-12
+INV1378,ABC Ltd,Mega Traders,45628,Tea,2025-01-13
+INV1379,BuyNShip,TradeX,5731,Wheat,2025-01-14
+INV1380,ZoomEx,Mega Traders,73903,Wheat,2025-01-15
+INV1381,ZoomEx,Exporters Inc,49167,Oil,2025-01-16
+INV1382,Global Corp,TradeX,60738,Oil,2025-01-17
+INV1383,ABC Ltd,Mega Traders,48441,Sugar,2025-01-18
+INV1384,BuyNShip,QuickExports,54512,Rice,2025-01-19
+INV1385,BuyNShip,TradeX,23820,Copper,2025-01-20
+INV1386,FastTrade,Exporters Inc,13779,Sugar,2025-01-21
+INV1387,FastTrade,TradeX,49608,Copper,2025-01-22
+INV1388,ABC Ltd,Exporters Inc,16821,Rice,2025-01-23
+INV1389,BuyNShip,QuickExports,54830,Rice,2025-01-24
+INV1390,Global Corp,QuickExports,26147,Wheat,2025-01-25
+INV1391,BuyNShip,QuickExports,17507,Sugar,2025-01-26
+INV1392,ABC Ltd,SellFast,82932,Sugar,2025-01-27
+INV1393,BuyNShip,SellFast,1887,Oil,2025-01-28
+INV1394,Global Corp,Mega Traders,70748,Rice,2025-01-29
+INV1395,Global Corp,Mega Traders,65243,Copper,2025-01-30
+INV1396,ZoomEx,SellFast,54966,Rice,2025-01-31
+INV1397,Global Corp,SellFast,33278,Rice,2025-02-01
+INV1398,ZoomEx,Exporters Inc,51292,Wheat,2025-02-02
+INV1399,FastTrade,SellFast,46410,Sugar,2025-02-03
+INV1400,BuyNShip,Mega Traders,75821,Oil,2025-02-04
+INV1401,Global Corp,SellFast,42808,Copper,2025-02-05
+INV1402,BuyNShip,TradeX,77272,Sugar,2025-02-06
+INV1403,ABC Ltd,SellFast,67877,Sugar,2025-02-07
+INV1404,ABC Ltd,Exporters Inc,63456,Wheat,2025-02-08
+INV1405,ZoomEx,TradeX,20224,Rice,2025-02-09
+INV1406,Global Corp,QuickExports,5338,Sugar,2025-02-10
+INV1407,Global Corp,Exporters Inc,45309,Sugar,2025-02-11
+INV1408,FastTrade,QuickExports,85218,Sugar,2025-02-12
+INV1409,Global Corp,QuickExports,81888,Copper,2025-02-13
+INV1410,Global Corp,TradeX,3886,Sugar,2025-02-14
+INV1411,FastTrade,Exporters Inc,33161,Rice,2025-02-15
+INV1412,ZoomEx,SellFast,80841,Rice,2025-02-16
+INV1413,ZoomEx,SellFast,7181,Wheat,2025-02-17
+INV1414,BuyNShip,Exporters Inc,85805,Copper,2025-02-18
+INV1415,ABC Ltd,TradeX,65785,Tea,2025-02-19
+INV1416,BuyNShip,SellFast,23485,Rice,2025-02-20
+INV1417,FastTrade,TradeX,54299,Tea,2025-02-21
+INV1418,BuyNShip,Exporters Inc,6338,Wheat,2025-02-22
+INV1419,ZoomEx,QuickExports,70540,Wheat,2025-02-23
+INV1420,ZoomEx,QuickExports,72487,Tea,2025-02-24
+INV1421,FastTrade,Exporters Inc,76489,Copper,2025-02-25
+INV1422,FastTrade,Exporters Inc,58658,Tea,2025-02-26
+INV1423,Global Corp,QuickExports,19954,Wheat,2025-02-27
+INV1424,ABC Ltd,Mega Traders,88079,Tea,2025-02-28
+INV1425,ABC Ltd,Exporters Inc,4620,Tea,2025-03-01
+INV1426,Global Corp,Mega Traders,5853,Oil,2025-03-02
+INV1427,ABC Ltd,SellFast,15482,Tea,2025-03-03
+INV1428,FastTrade,SellFast,7632,Tea,2025-03-04
+INV1429,FastTrade,TradeX,41140,Wheat,2025-03-05
+INV1430,BuyNShip,SellFast,88105,Wheat,2025-03-06
+INV1431,FastTrade,Mega Traders,43489,Oil,2025-03-07
+INV1432,Global Corp,TradeX,13433,Rice,2025-03-08
+INV1433,ZoomEx,SellFast,13668,Copper,2025-03-09
+INV1434,ZoomEx,Mega Traders,12383,Wheat,2025-03-10
+INV1435,FastTrade,SellFast,83538,Wheat,2025-03-11
+INV1436,ABC Ltd,TradeX,48760,Sugar,2025-03-12
+INV1437,ABC Ltd,Exporters Inc,33914,Sugar,2025-03-13
+INV1438,BuyNShip,Exporters Inc,87780,Copper,2025-03-14
+INV1439,ABC Ltd,QuickExports,20106,Sugar,2025-03-15
+INV1440,BuyNShip,Mega Traders,23606,Rice,2025-03-16
+INV1441,Global Corp,Mega Traders,53216,Oil,2025-03-17
+INV1442,BuyNShip,QuickExports,68907,Rice,2025-03-18
+INV1443,BuyNShip,Mega Traders,43054,Tea,2025-03-19
+INV1444,FastTrade,Mega Traders,43281,Sugar,2025-03-20
+INV1445,ZoomEx,Mega Traders,16793,Wheat,2025-03-21
+INV1446,Global Corp,QuickExports,5997,Oil,2025-03-22
+INV1447,Global Corp,Mega Traders,21438,Copper,2025-03-23
+INV1448,ABC Ltd,Exporters Inc,13308,Wheat,2025-03-24
+INV1449,BuyNShip,Exporters Inc,69619,Oil,2025-03-25
+INV1450,Global Corp,QuickExports,13576,Sugar,2025-03-26
+INV1451,Global Corp,Mega Traders,61817,Wheat,2025-03-27
+INV1452,ZoomEx,SellFast,45346,Oil,2025-03-28
+INV1453,BuyNShip,TradeX,13111,Sugar,2025-03-29
+INV1454,FastTrade,Exporters Inc,14751,Oil,2025-03-30
+INV1455,Global Corp,QuickExports,51751,Oil,2025-03-31
+INV1456,FastTrade,SellFast,27794,Copper,2025-04-01
+INV1457,ABC Ltd,Exporters Inc,45849,Wheat,2025-04-02
+INV1458,Global Corp,Mega Traders,26804,Wheat,2025-04-03
+INV1459,BuyNShip,Exporters Inc,48572,Sugar,2025-04-04
+INV1460,ABC Ltd,Mega Traders,39641,Copper,2025-04-05
+INV1461,ZoomEx,SellFast,1232,Tea,2025-04-06
+INV1462,FastTrade,TradeX,37187,Oil,2025-04-07
+INV1463,ABC Ltd,Exporters Inc,47871,Sugar,2025-04-08
+INV1464,ZoomEx,Exporters Inc,87264,Wheat,2025-04-09
+INV1465,BuyNShip,SellFast,15563,Sugar,2025-04-10
+INV1466,ABC Ltd,Mega Traders,66094,Tea,2025-04-11
+INV1467,ABC Ltd,QuickExports,20470,Sugar,2025-04-12
+INV1468,FastTrade,TradeX,29244,Tea,2025-04-13
+INV1469,FastTrade,Mega Traders,43821,Copper,2025-04-14
+INV1470,ABC Ltd,SellFast,71449,Rice,2025-04-15
+INV1471,BuyNShip,QuickExports,8118,Rice,2025-04-16
+INV1472,ZoomEx,Mega Traders,48027,Rice,2025-04-17
+INV1473,ABC Ltd,Exporters Inc,82748,Oil,2025-04-18
+INV1474,FastTrade,Mega Traders,39863,Tea,2025-04-19
+INV1475,ABC Ltd,TradeX,79861,Oil,2025-04-20
+INV1476,ABC Ltd,QuickExports,20541,Tea,2025-04-21
+INV1477,BuyNShip,TradeX,59919,Tea,2025-04-22
+INV1478,ABC Ltd,Mega Traders,23267,Oil,2025-04-23
+INV1479,ZoomEx,SellFast,25013,Rice,2025-04-24
+INV1480,FastTrade,QuickExports,10292,Copper,2025-04-25
+INV1481,ZoomEx,SellFast,87308,Wheat,2025-04-26
+INV1482,FastTrade,SellFast,87901,Tea,2025-04-27
+INV1483,BuyNShip,Exporters Inc,70363,Sugar,2025-04-28
+INV1484,FastTrade,QuickExports,23677,Rice,2025-04-29
+INV1485,FastTrade,Mega Traders,43304,Copper,2025-04-30
+INV1486,ZoomEx,QuickExports,15855,Wheat,2025-05-01
+INV1487,BuyNShip,SellFast,77069,Sugar,2025-05-02
+INV1488,ZoomEx,SellFast,17374,Rice,2025-05-03
+INV1489,ZoomEx,QuickExports,8673,Tea,2025-05-04
+INV1490,ABC Ltd,QuickExports,21446,Sugar,2025-05-05
+INV1491,BuyNShip,Exporters Inc,79623,Rice,2025-05-06
+INV1492,FastTrade,SellFast,9952,Copper,2025-05-07
+INV1493,ZoomEx,Mega Traders,72803,Rice,2025-05-08
+INV1494,ZoomEx,TradeX,71328,Copper,2025-05-09
+INV1495,BuyNShip,QuickExports,47185,Oil,2025-05-10
+INV1496,ABC Ltd,QuickExports,72822,Rice,2025-05-11
+INV1497,ABC Ltd,SellFast,52341,Oil,2025-05-12
+INV1498,FastTrade,QuickExports,89477,Oil,2025-05-13
+INV1499,ABC Ltd,QuickExports,79178,Sugar,2025-05-14
+INV1500,Global Corp,QuickExports,48860,Oil,2025-05-15
+INV1501,ABC Ltd,Exporters Inc,83576,Wheat,2025-05-16
+INV1502,Global Corp,SellFast,30769,Wheat,2025-05-17
+INV1503,ZoomEx,Exporters Inc,63381,Sugar,2025-05-18
+INV1504,ABC Ltd,Exporters Inc,8301,Rice,2025-05-19
+INV1505,FastTrade,SellFast,5927,Tea,2025-05-20
+INV1506,ABC Ltd,SellFast,50789,Oil,2025-05-21
+INV1507,BuyNShip,Exporters Inc,12517,Copper,2025-05-22
+INV1508,ABC Ltd,Mega Traders,31581,Copper,2025-05-23
+INV1509,ABC Ltd,TradeX,45033,Copper,2025-05-24
+INV1510,ZoomEx,Exporters Inc,11239,Sugar,2025-05-25
+INV1511,ZoomEx,Exporters Inc,73838,Sugar,2025-05-26
+INV1512,BuyNShip,Mega Traders,40875,Sugar,2025-05-27
+INV1513,FastTrade,QuickExports,69982,Rice,2025-05-28
+INV1514,ABC Ltd,QuickExports,56031,Tea,2025-05-29
+INV1515,Global Corp,Exporters Inc,28844,Wheat,2025-05-30
+INV1516,ZoomEx,TradeX,3399,Wheat,2025-05-31
+INV1517,BuyNShip,QuickExports,27921,Sugar,2025-06-01
+INV1518,BuyNShip,TradeX,39056,Tea,2025-06-02
+INV1519,ABC Ltd,QuickExports,6986,Copper,2025-06-03
+INV1520,Global Corp,QuickExports,48651,Sugar,2025-06-04
+INV1521,FastTrade,Exporters Inc,66797,Oil,2025-06-05
+INV1522,BuyNShip,QuickExports,33605,Wheat,2025-06-06
+INV1523,BuyNShip,Exporters Inc,86256,Rice,2025-06-07
+INV1524,Global Corp,Mega Traders,57035,Copper,2025-06-08
+INV1525,ABC Ltd,SellFast,15344,Tea,2025-06-09
+INV1526,Global Corp,Exporters Inc,78396,Tea,2025-06-10
+INV1527,ZoomEx,SellFast,58542,Tea,2025-06-11
+INV1528,FastTrade,SellFast,62847,Oil,2025-06-12
+INV1529,ABC Ltd,TradeX,71926,Copper,2025-06-13
+INV1530,ABC Ltd,Mega Traders,82469,Oil,2025-06-14
+INV1531,ZoomEx,Mega Traders,40966,Rice,2025-06-15
+INV1532,Global Corp,QuickExports,47982,Wheat,2025-06-16
+INV1533,ABC Ltd,TradeX,55948,Copper,2025-06-17
+INV1534,Global Corp,SellFast,58277,Copper,2025-06-18
+INV1535,FastTrade,Mega Traders,67977,Rice,2025-06-19
+INV1536,Global Corp,Mega Traders,52674,Rice,2025-06-20
+INV1537,ZoomEx,SellFast,16196,Rice,2025-06-21
+INV1538,BuyNShip,TradeX,71263,Tea,2025-06-22
+INV1539,FastTrade,TradeX,63623,Copper,2025-06-23
+INV1540,BuyNShip,QuickExports,17810,Copper,2025-06-24
+INV1541,Global Corp,SellFast,32215,Wheat,2025-06-25
+INV1542,ZoomEx,SellFast,78000,Oil,2025-06-26
+INV1543,ABC Ltd,Mega Traders,59621,Rice,2025-06-27
+INV1544,Global Corp,Mega Traders,39959,Oil,2025-06-28
+INV1545,FastTrade,Exporters Inc,2671,Copper,2025-06-29
+INV1546,FastTrade,Exporters Inc,13918,Sugar,2025-06-30
+INV1547,FastTrade,TradeX,37450,Wheat,2025-07-01
+INV1548,Global Corp,TradeX,65147,Rice,2025-07-02
+INV1549,Global Corp,Exporters Inc,31008,Copper,2025-07-03
+INV1550,BuyNShip,TradeX,13284,Oil,2025-07-04
+INV1551,Global Corp,Exporters Inc,55305,Rice,2025-07-05
+INV1552,BuyNShip,QuickExports,57714,Wheat,2025-07-06
+INV1553,FastTrade,Mega Traders,28243,Oil,2025-07-07
+INV1554,Global Corp,SellFast,65277,Rice,2025-07-08
+INV1555,BuyNShip,TradeX,86589,Rice,2025-07-09
+INV1556,ABC Ltd,SellFast,30006,Rice,2025-07-10
+INV1557,BuyNShip,QuickExports,79781,Sugar,2025-07-11
+INV1558,ZoomEx,QuickExports,18144,Copper,2025-07-12
+INV1559,ZoomEx,QuickExports,17135,Copper,2025-07-13
+INV1560,BuyNShip,QuickExports,40055,Sugar,2025-07-14
+INV1561,ABC Ltd,Mega Traders,61418,Sugar,2025-07-15
+INV1562,ABC Ltd,Exporters Inc,43106,Oil,2025-07-16
+INV1563,BuyNShip,QuickExports,51711,Sugar,2025-07-17
+INV1564,ZoomEx,Mega Traders,13057,Oil,2025-07-18
+INV1565,BuyNShip,QuickExports,86420,Wheat,2025-07-19
+INV1566,ABC Ltd,QuickExports,84715,Rice,2025-07-20
+INV1567,BuyNShip,TradeX,13219,Tea,2025-07-21
+INV1568,ZoomEx,QuickExports,66559,Rice,2025-07-22
+INV1569,Global Corp,Mega Traders,52685,Oil,2025-07-23
+INV1570,FastTrade,TradeX,39656,Oil,2025-07-24
+INV1571,ZoomEx,Exporters Inc,8535,Copper,2025-07-25
+INV1572,Global Corp,Mega Traders,5975,Sugar,2025-07-26
+INV1573,BuyNShip,QuickExports,62270,Copper,2025-07-27
+INV1574,FastTrade,TradeX,12638,Copper,2025-07-28
+INV1575,BuyNShip,Exporters Inc,78912,Rice,2025-07-29
+INV1576,ABC Ltd,Exporters Inc,34679,Wheat,2025-07-30
+INV1577,BuyNShip,TradeX,50523,Tea,2025-07-31
+INV1578,ZoomEx,QuickExports,25488,Wheat,2025-08-01
+INV1579,FastTrade,SellFast,42212,Copper,2025-08-02
+INV1580,FastTrade,SellFast,36493,Oil,2025-08-03
+INV1581,ABC Ltd,SellFast,34225,Oil,2025-08-04
+INV1582,BuyNShip,QuickExports,17838,Sugar,2025-08-05
+INV1583,BuyNShip,SellFast,38905,Sugar,2025-08-06
+INV1584,BuyNShip,Exporters Inc,45471,Oil,2025-08-07
+INV1585,Global Corp,QuickExports,2394,Oil,2025-08-08
+INV1586,ABC Ltd,QuickExports,14595,Copper,2025-08-09
+INV1587,FastTrade,QuickExports,88529,Sugar,2025-08-10
+INV1588,ABC Ltd,Mega Traders,47439,Wheat,2025-08-11
+INV1589,FastTrade,SellFast,85434,Rice,2025-08-12
+INV1590,ZoomEx,Exporters Inc,74864,Tea,2025-08-13
+INV1591,ABC Ltd,QuickExports,77203,Tea,2025-08-14
+INV1592,FastTrade,TradeX,21302,Tea,2025-08-15
+INV1593,BuyNShip,TradeX,89253,Copper,2025-08-16
+INV1594,ZoomEx,TradeX,69767,Sugar,2025-08-17
+INV1595,BuyNShip,SellFast,10352,Tea,2025-08-18
+INV1596,Global Corp,SellFast,56616,Copper,2025-08-19
+INV1597,BuyNShip,SellFast,63231,Oil,2025-08-20
+INV1598,FastTrade,Exporters Inc,67193,Oil,2025-08-21
+INV1599,Global Corp,QuickExports,41041,Wheat,2025-08-22
+INV1600,BuyNShip,Exporters Inc,9058,Oil,2025-08-23
+INV1601,ZoomEx,SellFast,65800,Copper,2025-08-24
+INV1602,FastTrade,TradeX,78922,Tea,2025-08-25
+INV1603,BuyNShip,TradeX,74072,Tea,2025-08-26
+INV1604,Global Corp,Mega Traders,36282,Wheat,2025-08-27
+INV1605,FastTrade,Exporters Inc,62886,Wheat,2025-08-28
+INV1606,ZoomEx,QuickExports,62551,Tea,2025-08-29
+INV1607,Global Corp,SellFast,50683,Wheat,2025-08-30
+INV1608,BuyNShip,Mega Traders,59056,Wheat,2025-08-31
+INV1609,FastTrade,SellFast,7503,Tea,2025-09-01
+INV1610,ABC Ltd,Mega Traders,76255,Oil,2025-09-02
+INV1611,FastTrade,Exporters Inc,82968,Rice,2025-09-03
+INV1612,FastTrade,TradeX,33409,Oil,2025-09-04
+INV1613,ZoomEx,Exporters Inc,71064,Oil,2025-09-05
+INV1614,ZoomEx,SellFast,30967,Tea,2025-09-06
+INV1615,ABC Ltd,Mega Traders,28861,Oil,2025-09-07
+INV1616,BuyNShip,TradeX,76973,Wheat,2025-09-08
+INV1617,FastTrade,TradeX,18742,Copper,2025-09-09
+INV1618,FastTrade,Mega Traders,10906,Copper,2025-09-10
+INV1619,Global Corp,Exporters Inc,17964,Tea,2025-09-11
+INV1620,ABC Ltd,SellFast,80620,Rice,2025-09-12
+INV1621,BuyNShip,Exporters Inc,57858,Copper,2025-09-13
+INV1622,ABC Ltd,QuickExports,61639,Tea,2025-09-14
+INV1623,ABC Ltd,TradeX,64249,Sugar,2025-09-15
+INV1624,FastTrade,Mega Traders,19144,Wheat,2025-09-16
+INV1625,BuyNShip,Exporters Inc,81373,Copper,2025-09-17
+INV1626,Global Corp,QuickExports,51293,Rice,2025-09-18
+INV1627,BuyNShip,QuickExports,24686,Rice,2025-09-19
+INV1628,ABC Ltd,TradeX,66209,Oil,2025-09-20
+INV1629,FastTrade,SellFast,1209,Sugar,2025-09-21
+INV1630,ZoomEx,Exporters Inc,44201,Oil,2025-09-22
+INV1631,ABC Ltd,TradeX,11557,Copper,2025-09-23
+INV1632,FastTrade,QuickExports,64622,Wheat,2025-09-24
+INV1633,ABC Ltd,TradeX,58312,Copper,2025-09-25
+INV1634,FastTrade,Mega Traders,74108,Copper,2025-09-26
+INV1635,ZoomEx,TradeX,51570,Rice,2025-09-27
+INV1636,Global Corp,TradeX,84310,Copper,2025-09-28
+INV1637,ZoomEx,Mega Traders,64246,Wheat,2025-09-29
+INV1638,Global Corp,Mega Traders,8817,Rice,2025-09-30
+INV1639,Global Corp,TradeX,7227,Tea,2025-10-01
+INV1640,ZoomEx,Mega Traders,51290,Tea,2025-10-02
+INV1641,Global Corp,QuickExports,54182,Oil,2025-10-03
+INV1642,BuyNShip,SellFast,23095,Oil,2025-10-04
+INV1643,BuyNShip,QuickExports,58826,Tea,2025-10-05
+INV1644,ABC Ltd,Mega Traders,11576,Wheat,2025-10-06
+INV1645,Global Corp,Mega Traders,28458,Rice,2025-10-07
+INV1646,BuyNShip,Exporters Inc,55453,Oil,2025-10-08
+INV1647,ABC Ltd,SellFast,3261,Copper,2025-10-09
+INV1648,BuyNShip,QuickExports,59653,Rice,2025-10-10
+INV1649,BuyNShip,Mega Traders,27575,Wheat,2025-10-11
+INV1650,Global Corp,Exporters Inc,70755,Sugar,2025-10-12
+INV1651,ABC Ltd,SellFast,3652,Tea,2025-10-13
+INV1652,ABC Ltd,TradeX,68322,Copper,2025-10-14
+INV1653,Global Corp,TradeX,54580,Oil,2025-10-15
+INV1654,BuyNShip,QuickExports,33888,Wheat,2025-10-16
+INV1655,ZoomEx,Mega Traders,74502,Copper,2025-10-17
+INV1656,Global Corp,TradeX,72209,Sugar,2025-10-18
+INV1657,ZoomEx,QuickExports,18140,Copper,2025-10-19
+INV1658,Global Corp,SellFast,23920,Sugar,2025-10-20
+INV1659,ZoomEx,TradeX,14574,Rice,2025-10-21
+INV1660,Global Corp,Exporters Inc,9906,Tea,2025-10-22
+INV1661,BuyNShip,Exporters Inc,34044,Copper,2025-10-23
+INV1662,ABC Ltd,SellFast,69129,Sugar,2025-10-24
+INV1663,FastTrade,Exporters Inc,9768,Tea,2025-10-25
+INV1664,BuyNShip,Mega Traders,88408,Copper,2025-10-26
+INV1665,ZoomEx,QuickExports,73929,Wheat,2025-10-27
+INV1666,FastTrade,Exporters Inc,48436,Copper,2025-10-28
+INV1667,ZoomEx,Mega Traders,52590,Sugar,2025-10-29
+INV1668,Global Corp,SellFast,81689,Tea,2025-10-30
+INV1669,FastTrade,SellFast,7554,Rice,2025-10-31
+INV1670,BuyNShip,QuickExports,63151,Copper,2025-11-01
+INV1671,FastTrade,QuickExports,66242,Sugar,2025-11-02
+INV1672,FastTrade,Mega Traders,28580,Wheat,2025-11-03
+INV1673,ABC Ltd,SellFast,75339,Wheat,2025-11-04
+INV1674,FastTrade,TradeX,5703,Tea,2025-11-05
+INV1675,BuyNShip,QuickExports,49703,Rice,2025-11-06
+INV1676,FastTrade,Mega Traders,68575,Rice,2025-11-07
+INV1677,BuyNShip,QuickExports,57143,Wheat,2025-11-08
+INV1678,BuyNShip,QuickExports,69637,Copper,2025-11-09
+INV1679,ABC Ltd,QuickExports,14808,Rice,2025-11-10
+INV1680,Global Corp,SellFast,67012,Rice,2025-11-11
+INV1681,BuyNShip,TradeX,36532,Oil,2025-11-12
+INV1682,FastTrade,Mega Traders,43328,Tea,2025-11-13
+INV1683,ABC Ltd,QuickExports,37508,Wheat,2025-11-14
+INV1684,ABC Ltd,Exporters Inc,68509,Oil,2025-11-15
+INV1685,FastTrade,Exporters Inc,47014,Wheat,2025-11-16
+INV1686,FastTrade,Exporters Inc,31334,Oil,2025-11-17
+INV1687,ZoomEx,Exporters Inc,46986,Oil,2025-11-18
+INV1688,FastTrade,Exporters Inc,30895,Copper,2025-11-19
+INV1689,BuyNShip,SellFast,73666,Rice,2025-11-20
+INV1690,ZoomEx,Exporters Inc,3595,Copper,2025-11-21
+INV1691,ABC Ltd,SellFast,2307,Tea,2025-11-22
+INV1692,ZoomEx,SellFast,75090,Tea,2025-11-23
+INV1693,ZoomEx,SellFast,16910,Rice,2025-11-24
+INV1694,ZoomEx,QuickExports,75651,Wheat,2025-11-25
+INV1695,BuyNShip,QuickExports,22097,Tea,2025-11-26
+INV1696,Global Corp,QuickExports,13014,Tea,2025-11-27
+INV1697,Global Corp,TradeX,73810,Copper,2025-11-28
+INV1698,BuyNShip,Exporters Inc,26011,Sugar,2025-11-29
+INV1699,BuyNShip,QuickExports,61767,Rice,2025-11-30
+INV1700,ABC Ltd,TradeX,45625,Copper,2025-12-01
+INV1701,Global Corp,Mega Traders,44617,Oil,2025-12-02
+INV1702,BuyNShip,SellFast,84771,Copper,2025-12-03
+INV1703,Global Corp,TradeX,66014,Rice,2025-12-04
+INV1704,BuyNShip,Exporters Inc,6289,Wheat,2025-12-05
+INV1705,FastTrade,Mega Traders,1968,Tea,2025-12-06
+INV1706,ABC Ltd,QuickExports,21096,Sugar,2025-12-07
+INV1707,FastTrade,Mega Traders,47186,Rice,2025-12-08
+INV1708,Global Corp,SellFast,76933,Oil,2025-12-09
+INV1709,Global Corp,QuickExports,68213,Copper,2025-12-10
+INV1710,Global Corp,TradeX,7830,Rice,2025-12-11
+INV1711,Global Corp,QuickExports,61941,Sugar,2025-12-12
+INV1712,Global Corp,Mega Traders,65278,Wheat,2025-12-13
+INV1713,ABC Ltd,TradeX,5012,Rice,2025-12-14
+INV1714,FastTrade,SellFast,64198,Sugar,2025-12-15
+INV1715,Global Corp,SellFast,49348,Rice,2025-12-16
+INV1716,Global Corp,TradeX,26654,Wheat,2025-12-17
+INV1717,BuyNShip,SellFast,21468,Tea,2025-12-18
+INV1718,ZoomEx,QuickExports,24985,Wheat,2025-12-19
+INV1719,ZoomEx,Exporters Inc,47504,Wheat,2025-12-20
+INV1720,Global Corp,Mega Traders,56971,Tea,2025-12-21
+INV1721,FastTrade,Exporters Inc,57366,Copper,2025-12-22
+INV1722,FastTrade,TradeX,11667,Copper,2025-12-23
+INV1723,ABC Ltd,TradeX,31438,Rice,2025-12-24
+INV1724,BuyNShip,Exporters Inc,28155,Oil,2025-12-25
+INV1725,ZoomEx,QuickExports,87601,Rice,2025-12-26
+INV1726,BuyNShip,QuickExports,17309,Copper,2025-12-27
+INV1727,FastTrade,Mega Traders,42623,Sugar,2025-12-28
+INV1728,ZoomEx,TradeX,86171,Wheat,2025-12-29
+INV1729,ABC Ltd,SellFast,46397,Oil,2025-12-30
+INV1730,FastTrade,Exporters Inc,63120,Copper,2025-12-31
+INV1731,ABC Ltd,Exporters Inc,42386,Rice,2026-01-01
+INV1732,BuyNShip,SellFast,69061,Rice,2026-01-02
+INV1733,Global Corp,SellFast,51841,Copper,2026-01-03
+INV1734,ZoomEx,Mega Traders,63224,Sugar,2026-01-04
+INV1735,FastTrade,TradeX,5429,Oil,2026-01-05
+INV1736,FastTrade,TradeX,77297,Copper,2026-01-06
+INV1737,ABC Ltd,SellFast,22766,Tea,2026-01-07
+INV1738,FastTrade,SellFast,87804,Oil,2026-01-08
+INV1739,BuyNShip,Mega Traders,11460,Oil,2026-01-09
+INV1740,ZoomEx,TradeX,22427,Wheat,2026-01-10
+INV1741,ZoomEx,SellFast,66583,Copper,2026-01-11
+INV1742,ABC Ltd,SellFast,50810,Copper,2026-01-12
+INV1743,ZoomEx,TradeX,23736,Tea,2026-01-13
+INV1744,ZoomEx,Mega Traders,86992,Sugar,2026-01-14
+INV1745,ABC Ltd,Mega Traders,13329,Oil,2026-01-15
+INV1746,BuyNShip,QuickExports,27866,Tea,2026-01-16
+INV1747,FastTrade,QuickExports,23686,Wheat,2026-01-17
+INV1748,BuyNShip,Exporters Inc,16709,Copper,2026-01-18
+INV1749,FastTrade,Exporters Inc,70940,Wheat,2026-01-19
+INV1750,Global Corp,TradeX,48616,Sugar,2026-01-20
+INV1751,ZoomEx,TradeX,11516,Rice,2026-01-21
+INV1752,FastTrade,Exporters Inc,55767,Copper,2026-01-22
+INV1753,BuyNShip,Exporters Inc,16316,Tea,2026-01-23
+INV1754,BuyNShip,SellFast,58775,Tea,2026-01-24
+INV1755,ABC Ltd,SellFast,55873,Sugar,2026-01-25
+INV1756,Global Corp,SellFast,37208,Sugar,2026-01-26
+INV1757,FastTrade,SellFast,23483,Sugar,2026-01-27
+INV1758,FastTrade,Exporters Inc,66355,Wheat,2026-01-28
+INV1759,BuyNShip,QuickExports,19268,Copper,2026-01-29
+INV1760,FastTrade,Mega Traders,2953,Sugar,2026-01-30
+INV1761,ABC Ltd,SellFast,88721,Sugar,2026-01-31
+INV1762,FastTrade,TradeX,8965,Sugar,2026-02-01
+INV1763,FastTrade,TradeX,30736,Wheat,2026-02-02
+INV1764,Global Corp,TradeX,17146,Wheat,2026-02-03
+INV1765,ABC Ltd,Mega Traders,22120,Wheat,2026-02-04
+INV1766,ABC Ltd,QuickExports,19059,Rice,2026-02-05
+INV1767,ABC Ltd,Exporters Inc,33094,Copper,2026-02-06
+INV1768,FastTrade,SellFast,19403,Tea,2026-02-07
+INV1769,BuyNShip,SellFast,49690,Copper,2026-02-08
+INV1770,ZoomEx,SellFast,88407,Sugar,2026-02-09
+INV1771,ABC Ltd,Exporters Inc,64236,Rice,2026-02-10
+INV1772,BuyNShip,TradeX,25295,Sugar,2026-02-11
+INV1773,BuyNShip,SellFast,37505,Rice,2026-02-12
+INV1774,ABC Ltd,QuickExports,81640,Sugar,2026-02-13
+INV1775,BuyNShip,TradeX,37131,Sugar,2026-02-14
+INV1776,ZoomEx,QuickExports,53137,Tea,2026-02-15
+INV1777,ABC Ltd,TradeX,7166,Copper,2026-02-16
+INV1778,BuyNShip,QuickExports,17345,Sugar,2026-02-17
+INV1779,Global Corp,Exporters Inc,63821,Oil,2026-02-18
+INV1780,FastTrade,Exporters Inc,27313,Copper,2026-02-19
+INV1781,ABC Ltd,Exporters Inc,45528,Wheat,2026-02-20
+INV1782,Global Corp,TradeX,47159,Oil,2026-02-21
+INV1783,ZoomEx,TradeX,89210,Wheat,2026-02-22
+INV1784,FastTrade,Exporters Inc,50577,Tea,2026-02-23
+INV1785,Global Corp,TradeX,58691,Oil,2026-02-24
+INV1786,FastTrade,TradeX,26778,Wheat,2026-02-25
+INV1787,ABC Ltd,SellFast,53851,Sugar,2026-02-26
+INV1788,BuyNShip,SellFast,46546,Tea,2026-02-27
+INV1789,Global Corp,QuickExports,52667,Rice,2026-02-28
+INV1790,FastTrade,SellFast,57906,Sugar,2026-03-01
+INV1791,ABC Ltd,SellFast,80765,Copper,2026-03-02
+INV1792,BuyNShip,Mega Traders,86500,Rice,2026-03-03
+INV1793,Global Corp,TradeX,2975,Tea,2026-03-04
+INV1794,ZoomEx,Exporters Inc,46429,Sugar,2026-03-05
+INV1795,BuyNShip,TradeX,46927,Rice,2026-03-06
+INV1796,Global Corp,QuickExports,40806,Oil,2026-03-07
+INV1797,Global Corp,Exporters Inc,30099,Copper,2026-03-08
+INV1798,BuyNShip,Exporters Inc,10606,Wheat,2026-03-09
+INV1799,ZoomEx,QuickExports,48371,Wheat,2026-03-10
+INV1800,ZoomEx,QuickExports,22157,Tea,2026-03-11
+INV1801,FastTrade,SellFast,21698,Sugar,2026-03-12
+INV1802,ZoomEx,QuickExports,82863,Wheat,2026-03-13
+INV1803,Global Corp,QuickExports,52409,Tea,2026-03-14
+INV1804,ZoomEx,Exporters Inc,58634,Rice,2026-03-15
+INV1805,ZoomEx,Mega Traders,74324,Wheat,2026-03-16
+INV1806,Global Corp,TradeX,32954,Sugar,2026-03-17
+INV1807,ZoomEx,TradeX,48531,Wheat,2026-03-18
+INV1808,BuyNShip,SellFast,7470,Copper,2026-03-19
+INV1809,ABC Ltd,Mega Traders,67051,Copper,2026-03-20
+INV1810,ZoomEx,SellFast,88527,Rice,2026-03-21
+INV1811,Global Corp,QuickExports,63798,Wheat,2026-03-22
+INV1812,BuyNShip,QuickExports,7481,Rice,2026-03-23
+INV1813,Global Corp,Exporters Inc,24645,Oil,2026-03-24
+INV1814,ABC Ltd,Exporters Inc,27436,Tea,2026-03-25
+INV1815,ABC Ltd,QuickExports,54684,Sugar,2026-03-26
+INV1816,Global Corp,SellFast,58823,Copper,2026-03-27
+INV1817,ZoomEx,Mega Traders,18530,Tea,2026-03-28
+INV1818,FastTrade,TradeX,12660,Wheat,2026-03-29
+INV1819,ZoomEx,Exporters Inc,42935,Wheat,2026-03-30
+INV1820,BuyNShip,Mega Traders,56912,Sugar,2026-03-31
+INV1821,BuyNShip,QuickExports,65406,Wheat,2026-04-01
+INV1822,ABC Ltd,TradeX,80356,Oil,2026-04-02
+INV1823,BuyNShip,Exporters Inc,28648,Oil,2026-04-03
+INV1824,ZoomEx,SellFast,17285,Wheat,2026-04-04
+INV1825,BuyNShip,SellFast,77377,Rice,2026-04-05
+INV1826,BuyNShip,Exporters Inc,21451,Copper,2026-04-06
+INV1827,BuyNShip,TradeX,51960,Rice,2026-04-07
+INV1828,FastTrade,Exporters Inc,84789,Sugar,2026-04-08
+INV1829,FastTrade,TradeX,66434,Wheat,2026-04-09
+INV1830,Global Corp,Exporters Inc,35576,Oil,2026-04-10
+INV1831,BuyNShip,Exporters Inc,63543,Copper,2026-04-11
+INV1832,BuyNShip,QuickExports,28562,Rice,2026-04-12
+INV1833,FastTrade,Mega Traders,17624,Oil,2026-04-13
+INV1834,ABC Ltd,Exporters Inc,79322,Oil,2026-04-14
+INV1835,ABC Ltd,TradeX,24893,Sugar,2026-04-15
+INV1836,BuyNShip,SellFast,24938,Sugar,2026-04-16
+INV1837,ZoomEx,QuickExports,21996,Rice,2026-04-17
+INV1838,ABC Ltd,SellFast,61391,Sugar,2026-04-18
+INV1839,FastTrade,Mega Traders,40065,Rice,2026-04-19
+INV1840,ZoomEx,QuickExports,86789,Wheat,2026-04-20
+INV1841,ABC Ltd,SellFast,46296,Wheat,2026-04-21
+INV1842,ABC Ltd,QuickExports,15742,Oil,2026-04-22
+INV1843,ZoomEx,QuickExports,75506,Oil,2026-04-23
+INV1844,ABC Ltd,TradeX,75549,Sugar,2026-04-24
+INV1845,ZoomEx,TradeX,18439,Oil,2026-04-25
+INV1846,ABC Ltd,Exporters Inc,39946,Sugar,2026-04-26
+INV1847,Global Corp,QuickExports,19696,Wheat,2026-04-27
+INV1848,BuyNShip,TradeX,46336,Sugar,2026-04-28
+INV1849,FastTrade,Exporters Inc,50235,Oil,2026-04-29
+INV1850,Global Corp,TradeX,14821,Wheat,2026-04-30
+INV1851,ZoomEx,SellFast,26032,Oil,2026-05-01
+INV1852,FastTrade,SellFast,52201,Copper,2026-05-02
+INV1853,BuyNShip,Exporters Inc,7616,Sugar,2026-05-03
+INV1854,ZoomEx,SellFast,25723,Wheat,2026-05-04
+INV1855,ABC Ltd,Exporters Inc,10089,Wheat,2026-05-05
+INV1856,BuyNShip,Exporters Inc,38714,Oil,2026-05-06
+INV1857,ABC Ltd,Exporters Inc,31946,Copper,2026-05-07
+INV1858,Global Corp,Mega Traders,29679,Tea,2026-05-08
+INV1859,FastTrade,TradeX,56671,Sugar,2026-05-09
+INV1860,Global Corp,Exporters Inc,36629,Copper,2026-05-10
+INV1861,ABC Ltd,TradeX,34225,Copper,2026-05-11
+INV1862,FastTrade,QuickExports,46808,Tea,2026-05-12
+INV1863,BuyNShip,QuickExports,14414,Sugar,2026-05-13
+INV1864,ZoomEx,SellFast,19499,Oil,2026-05-14
+INV1865,FastTrade,QuickExports,78505,Oil,2026-05-15
+INV1866,ZoomEx,QuickExports,20845,Copper,2026-05-16
+INV1867,ZoomEx,TradeX,89334,Copper,2026-05-17
+INV1868,Global Corp,Mega Traders,61645,Sugar,2026-05-18
+INV1869,BuyNShip,QuickExports,84999,Wheat,2026-05-19
+INV1870,ABC Ltd,SellFast,7351,Oil,2026-05-20
+INV1871,ABC Ltd,QuickExports,29908,Sugar,2026-05-21
+INV1872,ABC Ltd,SellFast,18816,Oil,2026-05-22
+INV1873,FastTrade,TradeX,46942,Copper,2026-05-23
+INV1874,FastTrade,Exporters Inc,25845,Wheat,2026-05-24
+INV1875,Global Corp,Mega Traders,18283,Wheat,2026-05-25
+INV1876,ABC Ltd,SellFast,26081,Copper,2026-05-26
+INV1877,BuyNShip,TradeX,55435,Tea,2026-05-27
+INV1878,Global Corp,SellFast,41786,Copper,2026-05-28
+INV1879,BuyNShip,Mega Traders,51544,Wheat,2026-05-29
+INV1880,ZoomEx,SellFast,22881,Sugar,2026-05-30
+INV1881,ABC Ltd,SellFast,81940,Wheat,2026-05-31
+INV1882,FastTrade,QuickExports,39422,Copper,2026-06-01
+INV1883,Global Corp,SellFast,16306,Oil,2026-06-02
+INV1884,ABC Ltd,TradeX,28454,Rice,2026-06-03
+INV1885,ABC Ltd,TradeX,71565,Oil,2026-06-04
+INV1886,ABC Ltd,TradeX,50942,Sugar,2026-06-05
+INV1887,BuyNShip,SellFast,12273,Sugar,2026-06-06
+INV1888,ABC Ltd,Mega Traders,87224,Copper,2026-06-07
+INV1889,ZoomEx,Mega Traders,67610,Copper,2026-06-08
+INV1890,Global Corp,SellFast,67911,Rice,2026-06-09
+INV1891,Global Corp,TradeX,26815,Sugar,2026-06-10
+INV1892,ABC Ltd,SellFast,45607,Rice,2026-06-11
+INV1893,BuyNShip,QuickExports,83551,Wheat,2026-06-12
+INV1894,ZoomEx,Exporters Inc,29999,Tea,2026-06-13
+INV1895,ZoomEx,QuickExports,55401,Wheat,2026-06-14
+INV1896,FastTrade,Exporters Inc,9771,Sugar,2026-06-15
+INV1897,ZoomEx,SellFast,57691,Rice,2026-06-16
+INV1898,Global Corp,Mega Traders,72772,Oil,2026-06-17
+INV1899,BuyNShip,Mega Traders,21017,Sugar,2026-06-18
+INV1900,ZoomEx,Mega Traders,10052,Tea,2026-06-19
+INV1901,BuyNShip,SellFast,59981,Copper,2026-06-20
+INV1902,Global Corp,TradeX,8148,Sugar,2026-06-21
+INV1903,ZoomEx,SellFast,32966,Rice,2026-06-22
+INV1904,FastTrade,TradeX,68888,Wheat,2026-06-23
+INV1905,ABC Ltd,TradeX,5796,Wheat,2026-06-24
+INV1906,ZoomEx,SellFast,69811,Rice,2026-06-25
+INV1907,Global Corp,Mega Traders,33551,Sugar,2026-06-26
+INV1908,BuyNShip,QuickExports,39268,Sugar,2026-06-27
+INV1909,BuyNShip,QuickExports,68609,Rice,2026-06-28
+INV1910,FastTrade,Exporters Inc,10747,Tea,2026-06-29
+INV1911,Global Corp,Exporters Inc,45988,Copper,2026-06-30
+INV1912,BuyNShip,TradeX,35280,Oil,2026-07-01
+INV1913,ABC Ltd,Exporters Inc,39631,Sugar,2026-07-02
+INV1914,ABC Ltd,TradeX,65830,Tea,2026-07-03
+INV1915,FastTrade,Exporters Inc,39301,Oil,2026-07-04
+INV1916,ABC Ltd,SellFast,57509,Sugar,2026-07-05
+INV1917,FastTrade,QuickExports,59841,Tea,2026-07-06
+INV1918,ZoomEx,QuickExports,2103,Oil,2026-07-07
+INV1919,ABC Ltd,TradeX,11104,Oil,2026-07-08
+INV1920,ZoomEx,QuickExports,28587,Wheat,2026-07-09
+INV1921,ZoomEx,TradeX,29366,Copper,2026-07-10
+INV1922,Global Corp,Exporters Inc,64467,Tea,2026-07-11
+INV1923,ABC Ltd,Exporters Inc,48838,Rice,2026-07-12
+INV1924,BuyNShip,QuickExports,16166,Oil,2026-07-13
+INV1925,Global Corp,Exporters Inc,5731,Rice,2026-07-14
+INV1926,ABC Ltd,TradeX,57676,Copper,2026-07-15
+INV1927,ABC Ltd,Mega Traders,4274,Copper,2026-07-16
+INV1928,ABC Ltd,TradeX,26209,Copper,2026-07-17
+INV1929,FastTrade,Mega Traders,25211,Rice,2026-07-18
+INV1930,ABC Ltd,QuickExports,8581,Sugar,2026-07-19
+INV1931,ZoomEx,TradeX,14538,Rice,2026-07-20
+INV1932,FastTrade,TradeX,63374,Wheat,2026-07-21
+INV1933,ZoomEx,Exporters Inc,84678,Wheat,2026-07-22
+INV1934,ABC Ltd,TradeX,74887,Copper,2026-07-23
+INV1935,BuyNShip,QuickExports,47451,Oil,2026-07-24
+INV1936,ABC Ltd,QuickExports,71492,Wheat,2026-07-25
+INV1937,FastTrade,SellFast,20385,Copper,2026-07-26
+INV1938,FastTrade,QuickExports,21010,Wheat,2026-07-27
+INV1939,BuyNShip,TradeX,81853,Copper,2026-07-28
+INV1940,FastTrade,Mega Traders,41324,Copper,2026-07-29
+INV1941,FastTrade,SellFast,45978,Sugar,2026-07-30
+INV1942,Global Corp,SellFast,21096,Copper,2026-07-31
+INV1943,FastTrade,Mega Traders,3394,Oil,2026-08-01
+INV1944,ABC Ltd,Mega Traders,33494,Rice,2026-08-02
+INV1945,FastTrade,TradeX,74186,Oil,2026-08-03
+INV1946,ABC Ltd,Exporters Inc,61168,Copper,2026-08-04
+INV1947,FastTrade,QuickExports,21211,Sugar,2026-08-05
+INV1948,Global Corp,TradeX,15360,Tea,2026-08-06
+INV1949,ABC Ltd,SellFast,15092,Copper,2026-08-07
+INV1950,ZoomEx,SellFast,1064,Wheat,2026-08-08
+INV1951,ZoomEx,TradeX,73572,Wheat,2026-08-09
+INV1952,FastTrade,QuickExports,20349,Oil,2026-08-10
+INV1953,BuyNShip,QuickExports,88212,Sugar,2026-08-11
+INV1954,ABC Ltd,Exporters Inc,53347,Rice,2026-08-12
+INV1955,ZoomEx,SellFast,56604,Tea,2026-08-13
+INV1956,ZoomEx,QuickExports,87521,Tea,2026-08-14
+INV1957,ZoomEx,SellFast,52485,Rice,2026-08-15
+INV1958,FastTrade,Exporters Inc,37371,Copper,2026-08-16
+INV1959,FastTrade,TradeX,30562,Oil,2026-08-17
+INV1960,Global Corp,Exporters Inc,24176,Wheat,2026-08-18
+INV1961,Global Corp,Mega Traders,54465,Wheat,2026-08-19
+INV1962,BuyNShip,Exporters Inc,85081,Wheat,2026-08-20
+INV1963,ZoomEx,Exporters Inc,54355,Rice,2026-08-21
+INV1964,ABC Ltd,QuickExports,58630,Sugar,2026-08-22
+INV1965,FastTrade,QuickExports,48460,Sugar,2026-08-23
+INV1966,BuyNShip,Mega Traders,2580,Oil,2026-08-24
+INV1967,ABC Ltd,Mega Traders,47557,Sugar,2026-08-25
+INV1968,BuyNShip,TradeX,30350,Wheat,2026-08-26
+INV1969,Global Corp,Mega Traders,12774,Sugar,2026-08-27
+INV1970,ABC Ltd,TradeX,42199,Tea,2026-08-28
+INV1971,BuyNShip,Mega Traders,80548,Tea,2026-08-29
+INV1972,Global Corp,QuickExports,19080,Wheat,2026-08-30
+INV1973,BuyNShip,Mega Traders,5534,Wheat,2026-08-31
+INV1974,Global Corp,Mega Traders,45664,Sugar,2026-09-01
+INV1975,BuyNShip,TradeX,31554,Tea,2026-09-02
+INV1976,FastTrade,TradeX,71124,Rice,2026-09-03
+INV1977,ZoomEx,Exporters Inc,69706,Wheat,2026-09-04
+INV1978,ABC Ltd,Exporters Inc,32293,Rice,2026-09-05
+INV1979,Global Corp,SellFast,22493,Tea,2026-09-06
+INV1980,BuyNShip,TradeX,69592,Sugar,2026-09-07
+INV1981,FastTrade,SellFast,40458,Oil,2026-09-08
+INV1982,Global Corp,QuickExports,49761,Rice,2026-09-09
+INV1983,ZoomEx,SellFast,51840,Sugar,2026-09-10
+INV1984,BuyNShip,QuickExports,89168,Sugar,2026-09-11
+INV1985,ABC Ltd,QuickExports,16489,Sugar,2026-09-12
+INV1986,ABC Ltd,Exporters Inc,2465,Wheat,2026-09-13
+INV1987,FastTrade,QuickExports,22530,Tea,2026-09-14
+INV1988,ABC Ltd,SellFast,36414,Oil,2026-09-15
+INV1989,FastTrade,Exporters Inc,12470,Copper,2026-09-16
+INV1990,FastTrade,Mega Traders,27988,Rice,2026-09-17
+INV1991,Global Corp,TradeX,14972,Rice,2026-09-18
+INV1992,Global Corp,SellFast,24876,Sugar,2026-09-19
+INV1993,ABC Ltd,Mega Traders,65088,Rice,2026-09-20
+INV1994,ABC Ltd,Exporters Inc,72924,Wheat,2026-09-21
+INV1995,Global Corp,SellFast,76207,Tea,2026-09-22
+INV1996,Global Corp,TradeX,20541,Copper,2026-09-23
+INV1997,ZoomEx,TradeX,32103,Copper,2026-09-24
+INV1998,FastTrade,Mega Traders,61645,Wheat,2026-09-25
+INV1999,BuyNShip,QuickExports,87225,Oil,2026-09-26
