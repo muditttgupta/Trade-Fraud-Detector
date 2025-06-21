@@ -99,12 +99,6 @@ TradeFraudDetector/
 
 ---
 
-## 📄 License
-
-MIT License. Feel free to fork, improve, or use this project in your work.
-
----
-
 ## 👨‍💻 Author
 
 Built with 💻 by [Mudit Gupta](https://github.com/muditttgupta)
