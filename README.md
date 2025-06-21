@@ -61,14 +61,6 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Screenshots
-
-![Amount Outlier Plot](output/amount_outliers.png)
-
-![Invoice Trend Plot](output/invoice_trend.png)
-
----
-
 ## 💡 Technology Stack
 
 - **Python 3.8+**
